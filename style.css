@@ -1,0 +1,410 @@
+.container {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    box-sizing: border-box;
+    margin: 0 auto;
+} 
+.img1{
+    width: 100%;
+}
+.img2{
+    position: absolute;
+    padding-left: 8%;
+    padding-top: 4%;
+}
+.h1{
+    position: absolute;
+    text-align: center;
+    padding-left: 34%;
+    padding-top: 11%;
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+}
+.ul1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: right;
+    margin-top: 38px;
+    margin-right: 110px;
+  }
+.img3{
+    width: 100%;
+}
+#h2{
+    position: absolute;
+    text-align: center;
+    padding-left: 40%;
+    color: cornflowerblue;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 1000px;
+
+}
+.i1{
+    position: absolute;
+    margin-left: 8% ;
+    padding-top: 1150px;
+}
+.i2{
+    position: absolute;
+    margin-left: 38% ;
+    padding-top: 1150px;
+}
+.i3{
+    position: absolute;
+    margin-left: 68% ;
+    padding-top: 1150px;
+}
+.c1{
+    position: absolute;
+    padding-top: 1450px;
+    padding-left: 9%;
+    font-weight: bold;
+}
+.c2{
+    position: absolute;
+    padding-top: 1500px;
+    padding-left: 9%;
+}
+.c3{
+    position: absolute;
+    padding-top: 1600px;
+    padding-left: 9%;
+    font-weight: bold;
+}
+/*  */
+.q1{
+    position: absolute;
+    padding-top: 1450px;
+    padding-left: 39%;
+    font-weight: bold;
+}
+.q2{
+    position: absolute;
+    padding-top: 1500px;
+    padding-left: 39%;
+}
+.q3{
+    position: absolute;
+    padding-top: 1600px;
+    padding-left: 39%;
+    font-weight: bold;
+}
+/*  */
+.s1{
+    position: absolute;
+    padding-top: 1450px;
+    padding-left: 69%;
+    font-weight: bold;
+}
+.s2{
+    position: absolute;
+    padding-top: 1500px;
+    padding-left: 69%;
+}
+.s3{
+    position: absolute;
+    padding-top: 1600px;
+    padding-left: 69%;
+    font-weight: bold;
+}
+/*  */
+.button1{
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    color: white;
+    border: 0.1px;
+    border-radius: 30px;
+    background-color: aqua;
+    margin-left: 44%;
+    margin-top: 1760px;
+}
+.img4{
+    width: 100%;
+}
+/*  */
+.f1{
+    position: absolute;
+    padding-left: 55%;
+    font-weight: bold;
+    font-size: 80px;
+    padding-top: 50px ;
+}
+.f2{
+    position: absolute;
+    padding-top: 360px;
+    padding-left: 55%;
+    font-size: 30px ;
+}
+.button2{
+    position: absolute;
+    width: 180px;
+    height: 55px;
+    color: white;
+    border: 0.1px;
+    border-radius: 30px;
+    background-color: aqua;
+    margin-left: 55%;
+    margin-top: 630px;
+}
+/*  */
+.img5{
+    width: 100% ;
+}
+.g1{
+    position: absolute;
+    padding-left: 2%;
+    font-weight: bold;
+    font-size: 80px;
+    padding-top: 35px ;
+}
+.g2{
+    position: absolute;
+    padding-top: 320px;
+    padding-left: 2%;
+    font-size: 30px;
+}
+.button3{
+    position: absolute;
+    width: 180px;
+    height: 55px;
+    color: white;
+    border: 0.1px;
+    border-radius: 30px;
+    background-color: aqua;
+    margin-left: 2%;
+    margin-top: 600px;
+}
+/*  */
+.img6{
+    width: 100%;
+}
+#i1{
+    color: white;
+    position: absolute;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-left: 42.5%;
+    font-size: 40px;
+}
+#i2{
+    color: white;
+    position: absolute;
+    font-weight: bold;
+    padding-top: 23%;
+    padding-left: 18.2%;
+    font-size: 35px;
+}
+#i3{
+    color: white;
+    position: absolute;
+    padding-top: 29%;
+    padding-left: 13%;
+    font-size: 15px;
+    text-align: center;
+}
+#i4{
+    color: white;
+    position: absolute;
+    font-weight: bold;
+    padding-top: 23%;
+    padding-left: 44%;
+    font-size: 35px;
+}
+#i5{
+    color: white;
+    position: absolute;
+    padding-top: 29%;
+    padding-left: 41.5%;
+    font-size: 15px;
+    text-align: center;
+}
+#i6{
+    color: white;
+    position: absolute;
+    font-weight: bold;
+    padding-top: 23%;
+    padding-left: 75%;
+    font-size: 35px;
+}
+#i7{
+    color: white;
+    position: absolute;
+    padding-top: 29%;
+    padding-left: 70.5%;
+    font-size: 15px;
+    text-align: center;
+}
+/*  */
+.img7{
+    width: 100%;
+}
+#o1{
+    color: blue;
+    position: absolute;
+    font-weight: bold;
+    padding-top: 2%;
+    padding-left: 38%;
+    font-size: 60px;
+}
+#o2{
+    color: blue;
+    position: absolute;
+    padding-top: 13%;
+    padding-left: 34%;
+    font-size: 18px;
+    text-align: center;
+}
+.button4{
+    position: absolute;
+    width: 230px;
+    height: 60px;
+    color: white;
+    border: 0.1px;
+    border-radius: 30px;
+    background-color: blue;
+    margin-left: 42%;
+    margin-top: 450px;
+}
+/*  */
+.img8{
+    width: 100%;
+}
+#k1{
+    color: blue;
+    position: absolute;
+    padding-top: 100px;
+    padding-left: 35%;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+#k2{
+    color: blue;
+    position: absolute;
+    padding-top: 180px;
+    padding-left: 44%;
+    font-size: 30px;
+    font-weight: bold;
+}
+.icon{
+    padding-left: 45.3% ;
+    padding-top: 19%;
+}
+/*  */
+a{
+    text-decoration: none;
+    color: white;
+}
+.s01{
+    position: absolute;
+    font-weight: bold;
+    color: white;
+    padding-top: 30%;
+    padding-left: 15%;
+    font-size: 15px;
+}
+#s02{
+    position: absolute;
+    font-weight: bold;
+    color: white;
+    padding-top: 33%;
+    padding-left: 15%;
+    font-size: 15px;
+}
+.s03{
+    position: absolute;
+    font-weight: bold;
+    color: white;
+    padding-top: 30%;
+    padding-left: 60%;
+    font-size: 15px;
+}
+.s04{
+    position: absolute;
+    font-weight: bold;
+    color: white;
+    padding-top: 30%;
+    padding-left: 70%;
+    font-size: 15px;
+}
+.s05{
+    position: absolute;
+    font-weight: bold;
+    color: white;
+    padding-top: 30%;
+    padding-left: 80%;
+    font-size: 15px;
+}
+/*  */
+nav{
+    padding-top: 40px;
+    position: absolute;
+    margin-left:65%;
+    margin-right: 50px;
+}
+nav a{
+    font-weight: bold;
+    font: size 14px;
+    text-transform: capitalize;
+    color: white;
+    text-decoration: none;
+    line-height: 100px;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    margin-left: 30px;
+}
+nav .animation{
+    position: absolute;
+    height:2px ;
+    bottom:0;
+    z-index: 1;
+    background-color: #0dc0c0;
+    transition: all .5s ease 0s;
+}
+nav a:hover{
+    color: #0dc0c0;
+}
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+   
+  }
+  .dropdown-content a {
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 500;
+    width: 160px;
+    margin: 0 3px 0 1px;
+    height: 28px;
+    line-height: 28px;
+    padding: 0 16px;
+    text-align: left;
+    background: none;
+    color: black;
+    border-bottom: 0.5px solid #828383;
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+
+
+
+
